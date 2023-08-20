@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9a585f41.css",
+    "main.js": "/portfolio/static/js/main.6bb4657e.js",
+    "static/media/Java.jpg": "/portfolio/static/media/Java.7d22247e96221c33514f.jpg",
+    "static/media/unnamed.png": "/portfolio/static/media/unnamed.09c70ef80c4b7d2b9cda.png",
+    "static/media/image.jpeg": "/portfolio/static/media/image.1e9c767ecc6a29c3663e.jpeg",
+    "static/media/SQLWeather.avif": "/portfolio/static/media/SQLWeather.bbb1b4ae0073448a9ff6.avif",
+    "index.html": "/portfolio/index.html",
+    "main.9a585f41.css.map": "/portfolio/static/css/main.9a585f41.css.map",
+    "main.6bb4657e.js.map": "/portfolio/static/js/main.6bb4657e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a585f41.css",
+    "static/js/main.6bb4657e.js"
+  ]
+}
